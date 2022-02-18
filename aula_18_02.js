@@ -1,7 +1,7 @@
 const frutas = [
     {
         nome: 'banana',
-        eCitrica: false,
+        citrica: false,
     },
    
 ]
